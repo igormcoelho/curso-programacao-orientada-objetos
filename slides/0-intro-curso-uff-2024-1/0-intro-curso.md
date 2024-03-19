@@ -159,11 +159,21 @@ uma extensão do C.
 Sendo assim, todos conhecimentos prévios de C ou C++, e até de Python,
 são úteis para a compreensão do curso.
 
+(*) Agradecimentos aos professores Leonardo Murta e Vânia Neves por cederem seus materiais, como base para construção desse curso
+
+
+-------
+
+## IDE e Sistema de Construção (build system)
+
 Em relação a IDE para Java, qualquer uma pode ser utilizada.
 O Visual Studio Code (VSCode) é bastante popular, sendo multi-linguagens.
 Outra opção recomendada é a [IDE NetBeans](https://netbeans.apache.org/download/index.html) na distribuição Java SE (ou openjdk). O NetBeans é gratuito e está disponível para os principais sistemas operacionais (Linux, Mac e Windows).
 
-(*) Agradecimentos aos professores Leonardo Murta e Vânia Neves por cederem seus materiais, como base para construção desse curso
+Os sistemas de construção (build systems) mais populares para Java são: Maven, Gradle e Ant.
+Particularmente, prefiro o sistema Bazel (originalmente da Google, chamado Blaze),
+que é super simples e funciona para diversas linguagens, como C/C++ e Java, bem como diversos sistemas operacionais, como Linux, Windows e Mac.
+A opção de compilar programas manualmente **não é recomendada**, por não ser utilizada na prática.
 
 -------
 

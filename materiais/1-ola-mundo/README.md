@@ -2,7 +2,10 @@
 
 - Instale um SDK de Java, seja Java SE ou OpenJDK
 - Considere um terminal estilo Bash, como do Ubuntu/Linux ou do WSL no Windows
-- Nesse exemplo, consideramos openjdk v11
+
+Caso não tenha linux ou WSL no Windows, veja o tutorial para [Windows nativo usando Chocolatey](./WINDOWS.md).
+
+- Nesse exemplo, consideramos openjdk v11 no Linux ou Windows WSL
 
 Veja o programa [AloMundo.java](AloMundo.java).
 

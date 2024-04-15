@@ -13,7 +13,8 @@ Materiais PDF-HTML:
 
 1. Organização de Programas em Java (Leo Murta)
    - Veja Materiais complementares em: [materiais/1-ola-mundo/README.md](./materiais/1-ola-mundo/README.md)
-1. ...
+2. Dicas para Listas de Exercícios Práticas
+   - Veja Materiais complementares em: [materiais/2-lista-pratica-github/README.md](./materiais/2-lista-pratica-github/README.md)
 
 ***Observação:*** **alguns módulos só são oferecidos para cursos específicos.*
 

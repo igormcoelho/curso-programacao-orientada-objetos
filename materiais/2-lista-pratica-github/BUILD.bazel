@@ -1,0 +1,5 @@
+java_binary(
+    name = "AloMundo",
+    main_class = "AloMundo",
+    srcs = glob(["*.java"]),
+)
